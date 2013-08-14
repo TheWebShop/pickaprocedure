@@ -1,0 +1,101 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+         <!-- the Loop Styles-->
+        <link rel="stylesheet" type="text/css" href="https://theloop.gov.bc.ca/_layouts/1033/styles/Themable/Menu.css?rev=yPVeKt0FHzxA%2FW4JR0hJng%3D%3D"/>
+        <link rel="stylesheet" type="text/css" href="https://theloop.gov.bc.ca/_layouts/1033/styles/Themable/corev4.css?rev=3TRomkG1g2gMGz4rekMIQg%3D%3D"/>
+        <link href="https://theloop.gov.bc.ca/ssrc/css/Aristo/Aristo.css" rel="stylesheet" type="text/css" />
+        <link href="https://theloop.gov.bc.ca/Style%20Library/en-us/Themable/Core%20Styles/customScreen.css" rel="stylesheet" type="text/css" />
+        <style>
+        /* emulate content area on the Loop */
+        .container {
+            width: 796px;
+            margin: 0 auto;
+        }
+        </style>
+
+        <!-- build:css({.tmp,app}) styles/main.css -->
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+        <!-- build:js scripts/vendor/modernizr.js -->
+        <script src="bower_components/modernizr/modernizr.js"></script>
+        <!-- endbuild -->
+    </head>
+    <body>
+        <div class="container">
+            <h1>Pick a Procedure</h1>
+
+            <section id="list-panel">
+              <div id="procedures-all"></div>
+              <p id="loading-procedures">Loading Procedures...</p>
+              <div class="message" id="search-notfound">No matching procedures found. Try something else.</div>
+            </section>
+
+              <section id="single-panel">
+                <p class="text-center"><a href="#" class="btn btn-default btn-large">▾ Pick Another Procedure</a>
+                <div id="procedure"></div>
+            </section>
+
+        </div>
+
+        <script type="text/template" id="procedures-table">
+        <table class="procedures-table table ms-rteTable-1 table-striped">
+          <caption>
+
+            <select id="topic-select" class="filter">
+              <option value="">Topic Filter</option>
+              {[ _.each(topics, function (topic, i) { ]}
+              <option>{{ topic.Value }}</option>
+              {[ }); ]}
+            </select>
+
+            <input style="display:none" id="procedure-search" class="search input-medium search-query" type="search" placeholder="Search from {{ procedures.length }} Procedures..." autofocus></caption>
+          <thead>
+            <tr class="ms-rteTableHeaderRow-1">
+              <th class="sort ms-rteTableHeaderOddCol-1" data-sort="Title">Procedure</th>
+              <th class="sort ms-rteTableHeaderOddCol-1" data-sort="Topics">Topics</th>
+              <th class="sort ms-rteTableHeaderOddCol-1" data-sort="Modified">Updated</th>
+              <!-- included for search purposes only -->
+              <th style="display: none;" class="sort ms-rteTableHeaderOddCol-1" data-sort="bodyText">bodyText</th>
+            </tr>
+          </thead>
+          <tbody class="list">
+            {[ _.each(procedures, function (el, i) { ]}
+            <tr>
+              <td class="Title">
+                <a href="#procedure/{{ el.slug }}" class="procedure">{{ el.Title }}</a>
+              </td>
+              <td class="Topics">{{ el.topics }}</td>
+              <td class="Modified">
+                <time datetime="{{ el.Modified }}">{{ el.Modified }}</time>
+              </td>
+              <!-- included for search purposes only -->
+              <td style="display: none;" class="bodyText">{{ el.bodyText }}</td>
+            </tr>
+            {[ }); ]}
+          </tbody>
+        </table>
+        </script>
+
+        <script type="text/template" id="procedure-single">
+        <header>
+          <h2>{{ Title }}</h2>
+          <p class="procedure-meta"><time class="ui-state-highlight pull-right">{{ modifiedOn }}</time>{{ topics }}</p>
+        </header>
+        <div class="procedure-body">{{ Body }}</div>
+        </script>
+
+        <!-- build:js scripts/main.js -->
+        <script data-main="scripts/main" src="bower_components/requirejs/require.js"></script>
+        <!-- endbuild -->
+</body>
+</html>

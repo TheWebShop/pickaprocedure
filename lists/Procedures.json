@@ -1,0 +1,1893 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(113)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Add a Calendar - MSD Office 500 (Intake and FMW)",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Administration')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Administration"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(113)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Calendar",
+                "Body": "<div class=\"ExternalClass176D989DA57C42028B938828381C513F\"><p>These are the instructions for adding the MSD Office 500 calendar which includes the Intake and FMW calendars: <a href=\"/rsd/region5/SiteAssets/Lists/Procedures/EditForm/add-a-calendar-msd-office-500.docx\"><img class=\"ms-asset-icon ms-rtePosition-4\" alt=\"add-a-calendar-msd-office-500.docx\" src=\"/rsd/region5/_layouts/images/icdocx.png\" />add-a-calendar-msd-office-500.docx</a></p></div>",
+                "Id": 113,
+                "ContentType": "Item",
+                "Modified": "/Date(1373299046000)/",
+                "Created": "/Date(1342687015000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(113)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(113)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "5.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(113)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(112)",
+                    "etag": "W/\"19\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Add a Printer/MFD",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Administration')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Administration"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(112)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "General",
+                "Body": "<div class=\"ExternalClass7282F55640EB43A2AD07CEF088F2B1DE\"><p>Click once on any link below to add and automatically install the printer to your computer (no other steps are required):</p>\r\n<p>Manual Instructions: <a href=\"/rsd/region5/SiteAssets/Lists/Procedures/EditForm/add-a-printer-mfd.docx\"><img class=\"ms-asset-icon ms-rtePosition-4\" alt=\"add-a-printer-mfd.docx\" src=\"/rsd/region5/_layouts/images/icdocx.png\" />add-a-printer-mfd.docx</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Atlin%20Printer%20-%20P20151.vbw\">Atlin Printer - P20151</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Burns%20Lake%20Printer%20-%20P402.vbw\">Burns Lake Printer - P402</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Chetwynd%20Printer%20-%20P20020.vbw\">Chetwynd Printer - P20020</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Dawson%20Creek%20Printer%20-%20P3985.vbw\">Dawson Creek Printer - P3985</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Dease%20Lake%20Printer%20-%20P8802.vbw\">Dease Lake Printer - P8802</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Fort%20Nelson%20Printer%20-%20P897.vbw\">Fort Nelson Printer - P897</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Fort%20St%20James%20Printer%20-%20P8574PS.vbw\">Fort St James Printer - P8574PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Fort%20St%20John%20Printer%20-%20P3984PS.vbw\">Fort St John Printer - P3984PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Hazelton%20Printer%20-%20P7317PS.vbw\">Hazelton Printer - P7317PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Houston%20Printer%20-%20P20086PCL.vbw\">Houston Printer - P20086PCL</a></p>\r\n<p><a href=\"/rsd/region5/Documents/kitimat-printer-p3993ps.vbw\">Kitimat Printer - P3993PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Mackenzie%20SBC%20Printer%20-%20P17360PS.vbw\">Mackenzie SBC Printer- P17360PS</a> Secure printer - Contact MSDSI Support to add this printer </p>\r\n<p><a href=\"/rsd/region5/Documents/Masset%20Printer%20-%20P3531PS.vbw\">Masset Printer - P3531PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/princegeorge-ox5-printer-p3981.vbw\">Prince George 0X5 Printer - P3981</a></p>\r\n<p><a href=\"/rsd/region5/Documents/princegeorge-500-printer-p3565.vbw\">Prince George 500 Printer - P3565 </a></p>\r\n<p><a href=\"/rsd/region5/Documents/Prince%20George%20583%20Printer%20-%20P3099PS.vbw\">Prince George 583 Printer - P3099PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Prince%20George%20585%20Printer%20-%20P3422PS.vbw\">Prince George 585 Printer - P3422PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Prince%20Rupert%20Printer%20-%20P3991PS.vbw\">Prince Rupert Printer - P3991PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Queen%20Charlotte%20City%20Printer%20-%20P8642.vbw\">Queen Charlotte City Printer - P8642</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Smithers%20Printer%20-%20P3564PS.vbw\">Smithers Printer - P3564PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Stewart%20Printer%20-%20P20145PS.vbw\">Stewart Printer - P20145PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Terrace%20Printer%20-%20P3988PS.vbw\">Terrace Printer - P3988PS</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Valemount%20Printer%20-%20P20006.vbw\">Valemount Printer - P20006</a></p>\r\n<p><a href=\"/rsd/region5/Documents/Vanderhoof%20Printer%20-%20P20154PS.vbw\">Vanderhoof Printer - P20154PS</a></p></div>",
+                "Id": 112,
+                "ContentType": "Item",
+                "Modified": "/Date(1374240421000)/",
+                "Created": "/Date(1342107166000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(112)/CreatedBy"
+                    }
+                },
+                "CreatedById": 146,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(112)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 19,
+                "Version": "19.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(112)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(145)",
+                    "etag": "W/\"7\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Applications",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Application')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Application"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(145)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Intake",
+                "Body": "<div class=\"ExternalClass4F351487E913496FB31662FF26B5C82C\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p><strong>*Click Link*  </strong><a href=\"/rsd/region5/Pages/region5-application-procedures.aspx\">Region 5 Application Procedures</a><strong>  *Click Link*</strong> </p>\r\n<p>Keyword search: adding a spouse, assessment, baldy hughes, bc new hope recovery society, calendar, eligibility interview, fleeing abuse, immediate needs, ina, intake, ini, long term care, ltc, medical services only, mso, outreach, pgrcc, prince george regional correctional centre, prospect, reapplication, ssaa, task, work search, hardship s.​</p></div>",
+                "Id": 145,
+                "ContentType": "Item",
+                "Modified": "/Date(1375183114000)/",
+                "Created": "/Date(1373894793000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(145)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(145)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 7,
+                "Version": "7.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(145)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(96)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "BCID - Cheque Payees",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('General%20Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "General Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(96)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Identification Supplement (ID)",
+                "Body": "<div class=\"ExternalClass994D0E839BB249CCB032AB8372110839\"><p style=\"text-align:center;text-decoration:underline\">​<strong>Procedures</strong></p>\r\n<p style=\"text-align:left\">BCID cheques should be made payable to the following payees in the following communities:</p>\r\n<ul><li><div style=\"text-align:left\">Dawson Creek: Minister of Finance</div></li>\r\n<li><div style=\"text-align:left\">Hazelton: ICBC</div></li>\r\n<li><div style=\"text-align:left\">Houston: ICBC</div></li>\r\n<li><div style=\"text-align:left\">Kitimat: ICBC</div></li>\r\n<li><div style=\"text-align:left\">Mackenzie: ICBC </div></li>\r\n<li><div style=\"text-align:left\">Prince George: Minister of Finance</div></li>\r\n<li><div style=\"text-align:left\">Prince Rupert: Minister of Finance</div></li>\r\n<li><div style=\"text-align:left\">Stewart: Minister of Finance</div></li>\r\n<li><div style=\"text-align:left\">Terrace: Minster of Finance </div></li>\r\n<li><div style=\"text-align:left\">Vanderhoof: ICBC</div></li></ul></div>",
+                "Id": 96,
+                "ContentType": "Item",
+                "Modified": "/Date(1368194479000)/",
+                "Created": "/Date(1328196532000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(96)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(96)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "2.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(96)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(90)",
+                    "etag": "W/\"13\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Camp Fees",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('General%20Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "General Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(90)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Camp Fees",
+                "Body": "<div class=\"ExternalClass4D45D3F058214035AD52A569655A4B70\"><div style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></div>\r\n<div style=\"text-align:center\"> </div>\r\n<div style=\"text-align:left\"><div style=\"margin:0cm 0cm 0pt\"><span style=\"font-family:&quot;verdana&quot;, &quot;sans-serif&quot;;color:#0070c0;font-size:10pt\"><a href=\"file://handle/S34009/Finance/Budgets/13-14%20Budgets/Supplemental%20Assistance\">Camp Fees Tracking Sheet - 2013/14</a></span></div>\r\n</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"> </div></div>",
+                "Id": 90,
+                "ContentType": "Item",
+                "Modified": "/Date(1365686449000)/",
+                "Created": "/Date(1327674949000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(90)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(90)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 13,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(90)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(141)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Community Volunteer Supplement (CVS)",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('General%20Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "General Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(141)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Community Volunteer Supplement (CVS)",
+                "Body": "<div class=\"ExternalClassD18940E19551444DA3FBB7BCB6643B4F\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p style=\"text-align:left\">Community Volunteer Supplement (CVS) is a specialized caseload managed by office <a href=\"https://insight.gov.bc.ca/Pages/PeopleResults.aspx?k=583%20prince%20george&amp;start1=1\">583</a>. If you require further information please contact <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cNATWARRE\">Natalie Warren</a> or <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cWSHEWCHU\">Wendy Shewchuk</a>.</p>\r\n<p style=\"text-align:left\">The CVS program is no longer open to clients who are not already receiving this supplement.  No new requests for CVS should be given.  All CVS clients are to be reviewed every 6 months.  If they are determined ineligible for continued CVS, clients cannot have this decision reconsidered or reapply.</p>\r\n<p style=\"text-align:left\">The CVS report is managed through Activities on the Case.  Only the CVS worker is to close these activities</p>\r\n<p style=\"text-align:left\">Activities for Reviews are queried by the CVS worker and SRs are created.</p>\r\n<p style=\"text-align:left\">CVS worker will:  </p>\r\n<p style=\"text-align:left\">a) Mail the client notification that a review is due, along with a 2567 for completion by the volunteer agency or</p>\r\n<p style=\"text-align:left\">b) Contact the agency from a master list managed by the CVS worker to confirm continued participation.</p>\r\n<p style=\"text-align:left\">Once the 2567/confirmation of continued volunteer participation is received, the CVS worker will review for further eligibility, complete SR, and create a new Activity on the Case for the next review (every 6 months).</p>\r\n<p style=\"text-align:left\">To check when the client will be due for their next review, check the Open CVS Review Activity on the Case.  </p>\r\n<p style=\"text-align:left\">If a client has questions regarding their CVS that you do not feel able to answer, advise the client that the CVS worker will call them to follow up.  Send an email to advise CVS worker Natalie Warren.</p></div>",
+                "Id": 141,
+                "ContentType": "Item",
+                "Modified": "/Date(1373973569000)/",
+                "Created": "/Date(1372764967000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(141)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(141)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 3,
+                "Version": "3.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(141)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(123)",
+                    "etag": "W/\"4\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Drug and Alcohol (D&A) Treatment",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(123)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Drug and Alcohol (D&A) Treatment",
+                "Body": "<div class=\"ExternalClass5BEA693D5A2D4885AC88DD3F8E23148D\"><p style=\"text-align:center;text-decoration:underline\">​<strong>Procedures</strong></p>\r\n<div style=\"text-align:left\"><strong></strong> </div>\r\n<p style=\"text-align:left\"> </p>\r\n<div>Supported Recovery Homes - Baldy Hughes and Ksan House</div>\r\n<div>Transportation - Eligible but code 53</div>\r\n<div>Comforts - Eligible</div>\r\n<div>Shelter Maintenance - Not eligible</div>\r\n<div>Note - Baldy Hughes and Ksan House residents are not eligible for Health Supplements or Storage Fees</div>\r\n<p> </p>\r\n<p>For all other licensed treatment facilities including those on reserve; clients are eligible for transportation, comforts and maintaining shelter if there are no other funding sources available.  </p>\r\n<p> </p></div>",
+                "Id": 123,
+                "ContentType": "Item",
+                "Modified": "/Date(1370614530000)/",
+                "Created": "/Date(1350385725000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(123)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(123)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 4,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(123)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(132)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Electronic Vital Statistics Services (EVSS) User List",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(132)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Vital Statistics/Birth Certificate Online Application",
+                "Body": "<div class=\"ExternalClassFFCE8A3EF17F45E7BA2BEF65B0FDD68A\"><p style=\"text-align:center\"><strong>Electronic Vital Statistics Services (EVSS) User List</strong></p>\r\n<p style=\"text-align:center\"><strong></strong> </p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cSHBARNES\">Shannon Barnes</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cNEBENZER\">Nancy Benzer-Ross</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cDJBREMNE\">Danielle Bremner</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cJBBROWN\">Janna Brown</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cRCHALLEN\">Ryan Challen</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cJLHAMILT\">Janis Hamilton</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDHAWRYLU\">Diana Hawryluk</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cESMATTHE\">Elfi Matthews</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cJEMILLIN\">Jean Millin</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cSMMOSS\">Susan Moss</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cCMSANKEY\">Carol Sankey</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cPAWARDRO\">Paige Wardrop</a></p>\r\n<p style=\"text-align:left\"> </p>\r\n<p style=\"text-align:center\">​</p></div>",
+                "Id": 132,
+                "ContentType": "Item",
+                "Modified": "/Date(1362482020000)/",
+                "Created": "/Date(1362482020000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(132)/CreatedBy"
+                    }
+                },
+                "CreatedById": 4577,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(132)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 4577,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(132)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(130)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Eligibility Review (ER) - Appointments",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(130)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Eligibility Review (ER)",
+                "Body": "<div class=\"ExternalClass79AE3035FAC34D9B9185B94D1B20028A\"><p style=\"text-align:center;text-decoration:underline\">​<strong>Procedures</strong></p>\r\n<p style=\"text-align:left\"><span>Eligibility Review appointments are booked via the Eligibility Review Calendar tab on the Intake Calendar.</span></p>\r\n<p style=\"text-align:left\">If a client needs to rebook or reschedule an appointment:</p>\r\n<ul><li>Book in the 3:00pm slot </li>\r\n<li>Include client name, case number and phone number </li>\r\n<li>Clients with no phone who will be phoning the 1 866# at their appointment time are to be transferred to <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cKRIBARN\">Kristina Barnes</a></li></ul></div>",
+                "Id": 130,
+                "ContentType": "Item",
+                "Modified": "/Date(1373364850000)/",
+                "Created": "/Date(1358782640000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(130)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(130)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 3,
+                "Version": "3.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(130)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(93)",
+                    "etag": "W/\"4\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Employment Plans - Waiving, Deferring and Suspending",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Employment%20Plans')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Employment Plans"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(93)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Employment Plans (EP)",
+                "Body": "<div class=\"ExternalClass56CBA1AD1BAB42B18BA9146396C38FB6\"><p style=\"text-align:center;text-decoration:underline\">​<strong>Procedures</strong></p></div>\r\n<ol><li>Do not create a new EP SR, update the existing Employment / Independence SR while waiving, deferring, or to suspend.</li>\r\n<li>Comments need to clearly articulate why we are requesting approval to waive.</li>\r\n<li>Drill into the Service Request and on the View Tab click Activities.</li>\r\n<li>Create an activity notification within the Service Request. In the description write, &quot;Requesting Regional Adjudicator (RRA) approval to waive EP&quot;. Action By should indicate &quot;Staff&quot;.</li>\r\n<li>Update the Service Office to office 500 and put Heather L Campbell as the owner (There are two Heather Campbell’s please ensure you have Heather L).  </li>\r\n<li>Communication from Heather is received via email and delivered to the Supervisor and EAW, who make notes within the EP SR as to decision from the RRA (who makes original notes as well).</li>\r\n<li>If Approved, the worker then ticks the indicator for 'EP waived' (if applicable) and adds an end date within Case/Contact/SD More Info. </li></ol>",
+                "Id": 93,
+                "ContentType": "Item",
+                "Modified": "/Date(1372257993000)/",
+                "Created": "/Date(1328193698000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(93)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(93)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 4,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(93)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(121)",
+                    "etag": "W/\"4\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Employment Plans (EP) ",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Employment%20Plans')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Employment Plans"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(121)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Employment Plans (EP)",
+                "Body": "<div class=\"ExternalClassDAAF0670F6A340E98A32429CEF567D7A\"><p>​ </p>\r\n<div style=\"background:white;margin:5.25pt 0cm;line-height:12.75pt;text-align:center\"><b><u><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Procedures</font></span></u></b></div>\r\n<div style=\"background:white;margin:5.25pt 0cm;line-height:12.75pt\"><b><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Contact Centre EAWs</font></span></b></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">1.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Client phones Contact Centre for Employment Plan<span>  </span></font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">2.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Client has no phone</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt;tab-stops:list 54.0pt\"><span lang=\"EN-US\" style=\"font-size:10pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Contact Centre EAW is to triage for completion within 583</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">3.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Client is a signal</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt;tab-stops:list 54.0pt\"><span lang=\"EN-US\" style=\"font-size:10pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Contact Centre EAW is to triage for completion within 583</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">4.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Client has phone and is not a signal</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Contact Centre EAW will transfer call to EP task EAW </font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm;line-height:12.75pt\"><b><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">EP Team call transfers – EP task EAW available</font></span></b></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">1.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Contact Centre EAW reviews Intake Calendar Task Schedule to see which EAWs are on EP task</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">2.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Contact Centre EAW sends an Office Communicator message to all EP task EAWs<span>  </span></font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">3.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Contact Centre EAW transfers call to EP task EAW who can take the call</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm;line-height:12.75pt\"><b><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">EP Team call transfers – EP task EAW not available</font></span></b></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">1.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">If an EP task EAW is not available for the call, Contact Centre EAW creates an Activity</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">2.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">If there is an active EP SR for the <span style=\"text-decoration:underline\">contact</span>, the activity must be created on the active SR:</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Description: EP Call Back (This is critical as this is the EP task team saved query) </font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Priority: 2-High</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Type: Notification</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Status: Open</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Owner: blank (delete owner)</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Due: 5 days from today’s date<span>  </span></font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">3.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">If there is not an active EP SR for the contact, the activity must be created on the <span style=\"text-decoration:underline\">case</span>:</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Description: EP Call Back (This is critical as this is the EP task team saved query) </font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Priority: 2-High</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Type: Notification</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Status: Open</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Owner: blank (delete owner)</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Due: 5 days from today’s date<span>  </span></font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm;line-height:12.75pt\"><b><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Non Contact Centre EAWs</font></span></b></div>\r\n<div style=\"background:white;margin:5.25pt 0cm;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Create their own Employment Plans with clients<b></b></font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm;line-height:12.75pt\"><b><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Profile EP</font></span></b></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">1.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">If there is a bar code at the bottom of the EP, scan and ensure the document auto profiles</font></span></div>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 36pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><span><font face=\"Calibri\">2.</font><span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">If there is no bar code at the bottom of the EP or if it does not auto profile</font></span></div>\r\n<p></p>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Profile the EP to the SR at the top of the EP (Type: Employment/Independence Subtype: Employment Plan)</font></span></div>\r\n<p></p>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">         </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\">Mark the SR status as Ready </font></span></div>\r\n<p></p>\r\n<div style=\"background:white;margin:5.25pt 0cm 5.25pt 54pt;text-indent:-18pt;line-height:12.75pt\"><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767;font-family:symbol\"><span>·<span style=\"font:7pt 'times new roman'\">       </span></span></span><span lang=\"EN-US\" style=\"font-size:10.5pt;color:#676767\"><font face=\"Calibri\"><span> </span>Use ICM to notify the owner of the EP SR</font></span></div>\r\n<p> </p></div>",
+                "Id": 121,
+                "ContentType": "Item",
+                "Modified": "/Date(1349342627000)/",
+                "Created": "/Date(1349278043000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(121)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(121)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 4,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(121)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(128)",
+                    "etag": "W/\"4\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Equifax User List",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(128)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Third (3rd) Party Checks",
+                "Body": "<div class=\"ExternalClass099404D4B849468C9F94754689078929\"><p><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cTADONECZ\">Tanny Donecz</a> is the Equifax contact supervisor who will keep her Equifax active and can reset passwords and activate accounts that have been inactive for extensive periods of time. </p>\r\n<p style=\"text-align:center\"><strong>Equifax User List</strong></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cKRIBARN\">Kristina Barnes</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cSHBARNES\">Shannon Barnes</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cKATBASSO\">Kathleen Basso</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cNEBENZER\">Nancy Benzer-Ross</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cJEBUNNAH\">Joy Bunnah</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cRCHALLEN\">Ryan Challen</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDACRAWFO\">Dawn Crawford</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cEDJOHANN\">Eve Johannesson</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDAPARENT\">Debra Parent</a></p>\r\n<p style=\"text-align:left\"> </p></div>",
+                "Id": 128,
+                "ContentType": "Item",
+                "Modified": "/Date(1364482071000)/",
+                "Created": "/Date(1354548521000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(128)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(128)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 4,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(128)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(99)",
+                    "etag": "W/\"6\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Family and Youth Program Prince George",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Programs')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Programs"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(99)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Family and Youth Program",
+                "Body": "<div class=\"ExternalClassABFC249ED68B4F88806412B80A38BF8D\"><div> </div>\r\n<p><strong>​</strong><strong>Overview</strong> </p>\r\n<p style=\"text-align:left\">The Family and Youth Program is a two year Provincial Pilot and has been developed to provide a more integrated support system to young parents under age 25 with employment obligations.</p>\r\n<p style=\"text-align:left\">In addition, Prince George has also been chosen as one of two communities, Kelowna is the other one, to work with youth in transition from MCFD programming. Partnerships are being developed with MCFD, ELMSD, Ministry of Education and Ministry of Health – Public Health Services to provide a holistic approach to service delivery for this client group. </p>\r\n<p style=\"text-align:left\">The Young Parent Employment Obligated case list has been preselected by HQ. The youth in transition caseload will be determined via an application process managed by MCFD. There will be a requirement to report monthly on services provided and outcomes. Our Outreach Worker in Prince George, Tanya Parent will provide case management services for MSD.</p>\r\n<div style=\"text-align:left\">The primary focus or this project is of course jobs and financial independence from IA. As part of their plan we will be assessing for barriers to employment and we will be working together to find solutions to assist in removing these barriers.  </div>\r\n<p> </p>\r\n<div style=\"text-align:center\"><strong>Key Worker</strong></div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cHAKOSTOV\">Heather Kostovich</a> </div>\r\n<div style=\"text-align:center\"><strong>Procedures</strong></div>\r\n<div style=\"text-align:left\"><strong></strong> </div>\r\n<p style=\"text-align:left\">All communications (phone, drop in,) from 585FYP clients to be forwarded to Key Worker.</p>\r\n<p style=\"text-align:left\">Messages left by clients on desk phone, cell phone, or email will be responded to within a 48 hour window.</p>\r\n<p style=\"text-align:left\">Paperwork submitted may be processed as usual : SR, notes, scanned, filed, batched etc.</p>\r\n<p style=\"text-align:left\">Profiling is to send notification to Key Worker.</p>\r\n<p style=\"text-align:left\">Immediate Emergencies in the Key Worker’s absence can be assessed and actioned by any EAW or Supervisor.<br /></p></div>",
+                "Id": 99,
+                "ContentType": "Item",
+                "Modified": "/Date(1365435446000)/",
+                "Created": "/Date(1328342994000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(99)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(99)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 6,
+                "Version": "2.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(99)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(75)",
+                    "etag": "W/\"4\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "FMP - Assessment Appointment",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Family%20Maintenance%20Program')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Family Maintenance Program"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(75)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Family Maintenance Program (FMP FM FMW)",
+                "Body": "<div class=\"ExternalClass351795720F714FEA93DFC853452E8A7B\"><div style=\"text-align:center\"><strong>Procedures​</strong></div>\r\n<div style=\"text-align:center\"><strong></strong> </div>\r\n<div style=\"text-align:left\">All initial appointments will be booked by EAW’s.</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\">EAW’s are to book an appointment into the next available time period in the FMP Assessment Calendar and inform the client of the time and contact method. <div style=\"text-align:left\"><br />EAW’s are to ensure they have listed the client’s full name, corresponding file #, contact number or how client will contact (ie: 866#) and the name of the EAW who booked the appointment.</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\">Each respondent listed by the client requires a separate appointment (ie: If the client lists 2 different respondents 2 separate appointments should be booked, preferably back to back).   </div>\r\n</div>\r\n<div style=\"text-align:left\"><br />Should clients fail to attend their initial appointment all rebooking will be done by FMW’s to ensure verbal contact has been made to discuss missed appointment and consequences of non compliance with the Family Maintenance Assignment.</div>\r\n<div style=\"text-align:left\"><br />The client will be notified via phone or letter by the FMW as to the timing and details of their rebooked appointment.</div>\r\n<div style=\"text-align:left\"><br /> </div></div>",
+                "Id": 75,
+                "ContentType": "Item",
+                "Modified": "/Date(1340702476000)/",
+                "Created": "/Date(1327659781000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(75)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(75)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 4,
+                "Version": "1.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(75)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(74)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "FMP - Assignment of Maintenance (AOM)",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Family%20Maintenance%20Program')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Family Maintenance Program"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(74)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Family Maintenance Program (FMP FM FMW)",
+                "Body": "<div class=\"ExternalClass1783377DABAF4860AD7A8685488B7653\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p style=\"text-align:left\"><strong></strong><strong></strong>​The Family Maintenance Assignment (AOMR) should be auto generated in ICM at the time of intake. Once eligibility has been determined any staff can witness the client signature in the first section of the 1st page.  </p>\r\n<p style=\"text-align:left\">Staff must ensure that the AOMR is not stamped or written on other than in the specified fields. If necessary, use a cover sheet to note the applicable SR number.</p>\r\n<p style=\"text-align:left\">EAW's are to create a Service Request in ICM for a Family Maintenance Referral. The Assignment can be scanned into ICM and should be attached to this SR. </p></div>",
+                "Id": 74,
+                "ContentType": "Item",
+                "Modified": "/Date(1341566644000)/",
+                "Created": "/Date(1327659736000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(74)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(74)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "2.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(74)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(78)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "FMP - EA File Transfer Ins",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Family%20Maintenance%20Program')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Family Maintenance Program"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(78)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Family Maintenance Program (FMP FM FMW)",
+                "Body": "<div class=\"ExternalClass0993343731B745D3A72344BC71E25B9B\"><div class=\"ExternalClass9EB4DEB2096F44C79C96A48B1D6253E9\" style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></div>\r\n<div class=\"ExternalClass9EB4DEB2096F44C79C96A48B1D6253E9\" style=\"text-align:center\"><strong></strong> </div>\r\n<div class=\"ExternalClass9EB4DEB2096F44C79C96A48B1D6253E9\" style=\"text-align:left\">EAW completes the FMP Questionnaire (SD3033).<br /> <br />If the client is a suitable referral the EAW must ensure an AOM is signed and the EAW completes a FM Referral and creates a Family Maintenance Service Request in ICM. </div></div>",
+                "Id": 78,
+                "ContentType": "Item",
+                "Modified": "/Date(1341495431000)/",
+                "Created": "/Date(1327660022000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(78)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(78)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "2.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(78)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(76)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "FMP - Family Maintenance Discrepancy Report",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Family%20Maintenance%20Program')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Family Maintenance Program"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(76)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Family Maintenance Program (FMP FM FMW)",
+                "Body": "<div class=\"ExternalClass0014EB55FCBF416BB5BB3100F84E7BEA\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p style=\"text-align:left\">One of the prioritized reports in Region 5 that requires action is the Family Maintenance Discrepancy Report. </p>\r\n<div>EAW's are responsible for completion of this report. </div>\r\n<div> </div>\r\n<div>This report identifies if clients are declaring the appropriate amount of maintenance. </div>\r\n<div> </div>\r\n<div>It is important to note that this report is not always 100% accurate. If there is a discrepancy and it appears the report may be in error then the EAW can forward to an FMW for review.</div>\r\n<div> </div>\r\n<div>To review the amount of maintenance that the client should be declaring per month, use the FPS L command within the GA file.  </div>\r\n<p></p>\r\n<p style=\"text-align:left\"><strong></strong>​</p></div>",
+                "Id": 76,
+                "ContentType": "Item",
+                "Modified": "/Date(1328188006000)/",
+                "Created": "/Date(1327659855000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(76)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(76)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "1.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(76)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(79)",
+                    "etag": "W/\"6\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "FMP - FMW Phone Calls",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Family%20Maintenance%20Program')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Family Maintenance Program"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(79)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Family Maintenance Program (FMP FM FMW)",
+                "Body": "<div class=\"ExternalClassF329918FB68A407A92FC45D042434D2B\"><div class=\"ExternalClass0F9832B1ECDE4764A485690BC1E25CCB\" style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></div>\r\n<div class=\"ExternalClass0F9832B1ECDE4764A485690BC1E25CCB\" style=\"text-align:center\"><strong></strong> </div>\r\n<div class=\"ExternalClass0F9832B1ECDE4764A485690BC1E25CCB\" style=\"text-align:left\">Because FMW’s are completing appointments in the morning they are only available to take phone calls after 1:00pm. To determine which FMW is taking phone calls, please refer to the FMW Calendar. If you are unable to reach a FMW to transfer the phone call it is the EAW’s responsibility to create a Service Request for a message to be placed. <br /> <br />As some names may be more common than others and EAWs are not to be placing a file # in the case field section, please attach the FM # and/or phone # in the Memo field section.</div></div>\r\n<div class=\"ExternalClassF329918FB68A407A92FC45D042434D2B\"> </div>\r\n<div class=\"ExternalClassF329918FB68A407A92FC45D042434D2B\"><div class=\"ExternalClass0F9832B1ECDE4764A485690BC1E25CCB\" style=\"text-align:left\">If a client phones in with Respondent information and no FMW is available, please document the verbal information provided on the FM file and create a SR for a FMW to return the client’s call to review the info. The SR should refer the FMW to notes on the FM file.<br /></div></div>",
+                "Id": 79,
+                "ContentType": "Item",
+                "Modified": "/Date(1359993005000)/",
+                "Created": "/Date(1327660066000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(79)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(79)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 6,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(79)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(80)",
+                    "etag": "W/\"7\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "FMP - FMW Signals",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Family%20Maintenance%20Program')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Family Maintenance Program"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(80)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Family Maintenance Program (FMP FM FMW)",
+                "Body": "<div class=\"ExternalClass7E14490CF6134D578C7F233075BF3903\"><div class=\"ExternalClassBEA558A47B6348E3A90C2DEE61FE67DD\" style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></div>\r\n<div class=\"ExternalClassBEA558A47B6348E3A90C2DEE61FE67DD\" style=\"text-align:center\"><strong></strong> </div>\r\n<div class=\"ExternalClassBEA558A47B6348E3A90C2DEE61FE67DD\" style=\"text-align:left\">FMW's are responsible for setting signals on EA files when the client is in non-compliance with FMP.<br /> <br />The FMW will contact the client via phone or letter to inform them of the signal.<br /> <br />FMP related signals on a EA file can only be released by a FMW.<br /> <br />Clients are not eligible for income assistance unless they are in compliance with FMP and signaled cheques must not be released until they are in compliance.</div>\r\n<div class=\"ExternalClassBEA558A47B6348E3A90C2DEE61FE67DD\" style=\"text-align:left\"> </div>\r\n<div class=\"ExternalClassBEA558A47B6348E3A90C2DEE61FE67DD\" style=\"text-align:left\">On Cheque Issue Wednesday, EAWs are permitted to use Office Communicator to identify any FMWs that may be available. The available FMWs for the day will be listed on the FMP calendar.</div></div>",
+                "Id": 80,
+                "ContentType": "Item",
+                "Modified": "/Date(1366283446000)/",
+                "Created": "/Date(1327660155000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(80)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(80)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 7,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(80)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(81)",
+                    "etag": "W/\"8\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Funeral (Burial) - Specialized Worker ",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('General%20Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "General Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(81)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Funeral Costs",
+                "Body": "<div class=\"ExternalClass924A9E95FA414D4786F98F49993163BD\"><p style=\"text-align:center;text-decoration:underline\">​<strong>Procedures</strong></p>\r\n<p style=\"text-align:left\">Please refer to the Intake Calendar - Task Schedule for the current specialized worker and their availability. </p>\r\n<p style=\"text-align:left\">The specialized worker will complete the Service Request and use their direct fax number for paperwork.  </p></div>",
+                "Id": 81,
+                "ContentType": "Item",
+                "Modified": "/Date(1366277805000)/",
+                "Created": "/Date(1327663919000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(81)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(81)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 8,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(81)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(122)",
+                    "etag": "W/\"6\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "ICBC User List",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(122)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Third (3rd) Party Checks",
+                "Body": "<div class=\"ExternalClassF840DF9A397049D0B19ED5E37A09BBEA\"><p style=\"text-align:center\"><span style=\"text-decoration:underline\">​</span><strong>ICBC User List</strong></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cKRIBARN\">Kristina Barnes</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cSHBARNES\">Shannon Barnes</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cKATBASSO\">Kathleen Basso</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cNEBENZER\">Nancy Benzer-Ross</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cRCHALLEN\">Ryan Challen</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDACRAWFO\">Dawn Crawford</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cPAGOFFIC\">Pamela Goffic</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cEDJOHANN\">Eve Johannesson</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cMELEVESQ\">Melissa Levesque</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDAPARENT\">Debra Parent</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cTPARENT\">Tanya Parent</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDRQUASH\">Dale Quash</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cKVSPINK\">Kathryn Spink</a></p>\r\n<p style=\"text-align:left\"> </p>\r\n<p style=\"text-align:left\"> </p></div>",
+                "Id": 122,
+                "ContentType": "Item",
+                "Modified": "/Date(1364478697000)/",
+                "Created": "/Date(1350379009000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(122)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(122)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 6,
+                "Version": "6.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(122)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(110)",
+                    "etag": "W/\"12\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "ICM Service Providers - Add or Edit",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('ICM')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "ICM"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(110)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Service Providers",
+                "Body": "<div class=\"ExternalClass61A7298E847E4A87B8B3F5B80109C20B\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p style=\"text-align:left\">Staff are not to add or edit Service Providers. You must send your request to your SME:</p>\r\n<p style=\"text-align:left\">Dawson Creek - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cJEBUNNAH\">Joy Bunnah</a></p>\r\n<p style=\"text-align:left\">Fort St John - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cKVSPINK\">Kathyrn Spink</a></p>\r\n<p style=\"text-align:left\">Fort St John - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cTRSTEPHE\">Tara Stephenson</a></p>\r\n<p style=\"text-align:left\">Mackenzie - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cLCALLAGH\">Louise Callaghan</a></p>\r\n<p style=\"text-align:left\">Prince George 583 - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cTECOLLIN\">Terry Collins</a></p>\r\n<p style=\"text-align:left\">Prince George 583 - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cHPLOZIER\">Hope Lozier</a></p>\r\n<p style=\"text-align:left\">Prince George 583 - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDAPARENT\">Debra Parent</a></p>\r\n<p style=\"text-align:left\">Prince George 583 - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cCNTAYLOR\">Cindy Taylor</a></p>\r\n<p style=\"text-align:left\">Prince George 585 - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cKRIBARN\">Kristina Barnes</a></p>\r\n<p style=\"text-align:left\">Prince George 585 - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cSHBARNES\">Shannon Barnes</a></p>\r\n<p style=\"text-align:left\">Prince Rupert -  <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cKATBASSO\">Kathleen Basso</a></p>\r\n<p style=\"text-align:left\">Prince Rupert - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDRQUASH\">Dale Quash</a></p>\r\n<p style=\"text-align:left\">Terrace - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cLMMCCLEN\">Leeah McClenaghan</a></p>\r\n<p style=\"text-align:left\">Terrace - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cKLSEELEY\">Karen Seeley</a></p>\r\n<p style=\"text-align:left\"><strong> <br /></strong></p></div>",
+                "Id": 110,
+                "ContentType": "Item",
+                "Modified": "/Date(1372348052000)/",
+                "Created": "/Date(1340013562000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(110)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(110)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 12,
+                "Version": "12.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(110)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(131)",
+                    "etag": "W/\"7\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Investigative Officer (IO) - Reviews and Signals",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(131)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Prevention Loss Management Services (PLMS), Ministry Investigator (MI) and Investigative Officer (IO)",
+                "Body": "<div class=\"ExternalClass39FD6171C1434D178EA2FA13A33975D1\"><p class=\"ExternalClass5030E9C620D44F72B5AA3BC8AFA26478\" style=\"text-align:center\"><strong>Procedures</strong></p>\r\n<p class=\"ExternalClass5030E9C620D44F72B5AA3BC8AFA26478\" style=\"text-align:left\"><strong>Client attends office to submit paperwork requested by IO</strong></p>\r\n<div class=\"ExternalClass5030E9C620D44F72B5AA3BC8AFA26478\"><ul><li><div style=\"text-align:left\">Front line staff will accept paperwork and scan into the MFD to category: PLMS</div></li></ul></div>\r\n<p class=\"ExternalClass6703F1D362554E7F8F942076A112BCF9\" style=\"text-align:left\"><strong>For all PLMS review and signal inquiries</strong></p>\r\n<div class=\"ExternalClass6703F1D362554E7F8F942076A112BCF9\"><ul><li><div style=\"text-align:left\">Front line staff will advise clients to contact IO to discuss submission of documents<br /></div></li>\r\n<li><div style=\"text-align:left\">IO’s direct contact number and/or PLMS toll free number can be provided to clients at any time <br /></div></li>\r\n<li><div style=\"text-align:left\">EAWs are not to resolve any PLMS signals or release benefits unless IO has specified otherwise </div></li></ul></div>\r\n<p class=\"ExternalClass55E197ACA292485DB2639756C0E9294B\"><strong>IO receives phone call from client</strong></p>\r\n<div class=\"ExternalClass55E197ACA292485DB2639756C0E9294B\"><ul><li>IO will assess client’s service needs to determine if immediate/urgent service is required </li></ul></div>\r\n<p dir=\"ltr\" style=\"margin-right:0px\"><strong>If immediate/urgent service is required</strong></p>\r\n<ul dir=\"ltr\"><li><div style=\"margin-right:0px\">IO will locate documents in ICM and profile to case</div></li></ul>\r\n<ul dir=\"ltr\"><li><div style=\"margin-right:0px\">IO will action documents and advise client of next steps/action required </div></li></ul>\r\n<p dir=\"ltr\" style=\"margin-right:0px\"><strong>If  no immediate/urgent service is required </strong></p>\r\n<ul dir=\"ltr\"><li>IO will advise of standard processing times (3-5 business days) and will arrange for client to call back at later date or will confirm a contact number that client can be reached at once documents are processed </li></ul></div>",
+                "Id": 131,
+                "ContentType": "Item",
+                "Modified": "/Date(1362480711000)/",
+                "Created": "/Date(1362478421000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(131)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(131)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 7,
+                "Version": "7.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(131)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(119)",
+                    "etag": "W/\"13\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Manager (MFS) Approvals",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Administration')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Administration"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(119)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "General",
+                "Body": "<div class=\"ExternalClassCB4DD694D2314B26936BCE7F2EBCCBEC\"><p class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:center\">​<strong>Manager Approval Requests - All (except medical)</strong></p>\r\n<p class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">Manager of Field Services: <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cLIHERMAN\">Linda Herman</a> </p>\r\n<p class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">Supervisor does a note summarizing:</p>\r\n<ul><li><div class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">What is the need</div></li>\r\n<li><div class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">What is the reason for the need</div></li>\r\n<li><div class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">What the client has done on their own to meet the need</div></li>\r\n<li><div class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">What other resources are available or that the client has tried and no other resources are available</div></li>\r\n<li><div class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">The amount requested</div></li>\r\n<li><div class=\"ExternalClass833196BC35A0447E82C044961B3793BB\" style=\"text-align:left\">Which code applies </div></li>\r\n</ul>\r\n<div class=\"ExternalClass833196BC35A0447E82C044961B3793BB\"><ol style=\"text-align:center\"><strong>Manager Approval Requests - Medical</strong></ol></div>\r\n<p class=\"ExternalClass9F281B2215E548D2AE72DE2AE206F7E8\" style=\"text-align:left\">Manager of Field Services: <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cRMAURO\">Renato Mauro</a></p>\r\n<div class=\"ExternalClass9F281B2215E548D2AE72DE2AE206F7E8\"><ol><li><div style=\"text-align:left\">Retain ownership of the Service Request and leave as pending.</div></li>\r\n<li><div style=\"text-align:left\">Create notification for Manager review and approval. This only applies for medical requests as all other approvals require Supervisor review prior to being directed to the Manager.</div></li>\r\n<li><div style=\"text-align:left\">Create benefit plan which if approved will be submitted by the Manager.</div></li>\r\n<li><div style=\"text-align:left\">Manager will complete approval, submit benefit plan and change the Service Request to ready for the EAW to complete.  </div></li></ol></div>\r\n<p style=\"text-align:left\"> </p></div>",
+                "Id": 119,
+                "ContentType": "Item",
+                "Modified": "/Date(1368522835000)/",
+                "Created": "/Date(1347545203000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(119)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(119)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 13,
+                "Version": "13.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(119)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(85)",
+                    "etag": "W/\"18\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Medical Task Team",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Health%20Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Health Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(85)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Medical Task Team",
+                "Body": "<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\"><div style=\"text-align:center\"><strong>Team Members</strong></div>\r\n<div style=\"text-align:center\"><strong></strong> </div>\r\n<div style=\"text-align:left\"><strong>Supervisors:</strong></div>\r\n<div style=\"text-align:left\">Lead - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDSTAUB\">Dawn Staub</a></div>\r\n<div style=\"text-align:left\">Back up - <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cEDALTON\">Eryn Dalton</a></div>\r\n<div style=\"text-align:left\"><strong></strong> </div>\r\n<div style=\"text-align:left\"><strong>EAWs: </strong></div>\r\n<div style=\"text-align:left\">Please refer to the Intake Calendar - Task Schedule for a current list of team members and their availability.</div></div>\r\n<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\"> </div>\r\n<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\" style=\"text-align:left\"><div style=\"text-align:center\"><strong>ICM </strong></div></div>\r\n<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\" style=\"text-align:left\"><br />Health needs requests that come through ICM need to be profiled to the Health Supplement folder. The team will review this ICM folder regularly to manage the work.</div>\r\n<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\" style=\"text-align:left\"> </div>\r\n<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\" style=\"text-align:center\"><strong>Service Requests </strong> </div>\r\n<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\" style=\"text-align:left\"> </div>\r\n<div class=\"ExternalClassC580817CE45A44F78464D61FA22D9440\" style=\"text-align:left\">Medical Transportation - Ongoing/Follow Up </div>\r\n<ul><li>Medical Task Team will create Service Request with status of pending </li>\r\n<li>EAW reviews Notes and Activities </li>\r\n<li>EAW completes Request for Non Local Medical Transportation Assistance (SD3320)</li></ul>\r\n<p>All other Health Supplements </p>\r\n<ul><li>Service Request is created on the Contact view for the person needing the supplement</li>\r\n<li>Medical Task Team will associate the Service Request to the appropriate case (ie: EA or HLTH) </li></ul>\r\n<p style=\"text-align:center\"><strong>Urgent Service Requests</strong></p>\r\n<div style=\"text-align:left\">Send an email to the Medical Task Team EAWs and cc the Lead Supervisors.</div>",
+                "Id": 85,
+                "ContentType": "Item",
+                "Modified": "/Date(1367500887000)/",
+                "Created": "/Date(1327666008000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(85)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(85)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 18,
+                "Version": "8.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(85)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(88)",
+                    "etag": "W/\"6\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Medical Transportation - Staff Checklist",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Health%20Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Health Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(88)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Medical Transportation",
+                "Body": "<div class=\"ExternalClass95DA3D94A4554EBAA552B180B03A0AB3\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p><a href=\"/rsd/region5/SiteAssets/Lists/Procedures/EditForm/medical-transportation-staff-checklist.docx\"><img class=\"ms-asset-icon ms-rtePosition-4\" alt=\"medical-transportation-staff-checklist.docx\" src=\"/rsd/region5/_layouts/images/icdocx.png\" />medical-transportation-staff-checklist.docx</a></p>\r\n<p> </p></div>",
+                "Id": 88,
+                "ContentType": "Item",
+                "Modified": "/Date(1354096926000)/",
+                "Created": "/Date(1327666414000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(88)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(88)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 6,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(88)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(138)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Midmonth - Early Cheque Release",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Administration')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Administration"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(138)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Cheques",
+                "Body": "<div class=\"ExternalClass20C13A35F329469CB95A5B52D04C6278\"><div style=\"text-align:center;text-decoration:underline\"><strong>Background</strong></div>\r\n<div style=\"text-align:center;text-decoration:underline\"> </div>\r\n<div style=\"text-align:left\">Midmonth early cheque release is done by the home office since there are so many variables.</div>\r\n<div style=\"text-align:left\"><br />Some have alerts, some weeklies, some midmonth for pick-up, some for mail, some pick-up Monday, some Wednesday, some only allowed one cheque per week, some need a worker from a community agency with them, some are discretionary and some are non discretionary.</div>\r\n<div style=\"text-align:left\"><br />With these variables come issues of cheques being released where they shouldn’t be and we end up in a place where we are being sworn at, threatened, clients 3rd partied, etc.</div>\r\n<div style=\"text-align:left\"><strong></strong> </div>\r\n<div style=\"text-align:center;text-decoration:underline\"><strong>MSD Office - Community Responsibilities</strong></div>\r\n<div style=\"text-align:center;text-decoration:underline\"> </div>\r\n<div style=\"text-align:left\"><span><strong>Dawson Creek </strong></span><span>- Chetwynd and Tumbler Ridge</span></div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"><strong>Fort St John</strong> - Fort Nelson and Huson's Hope </div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"><strong>Prince George</strong> - Fort St James, Mackenzie, McBride, Valemount and Vanderhoof</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"><strong>Prince Rupert</strong> - Haida Gwaii and Port Edward</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"><strong>Smithers</strong> - Atlin, Burns Lake, Granisle, Hazelton, Houston, Telkwa and Topley</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"><strong>Terrace</strong> - Kitimat, Stewart and Thornhill</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:center;text-decoration:underline\"><strong>Process</strong></div>\r\n<div style=\"text-align:center;text-decoration:underline\"> </div>\r\n<div style=\"text-align:left\">Client calls in and the worker communicates request for release either 2 ways:  </div>\r\n<div style=\"text-align:left\"><br /><strong>Via communicator to Supervisor, A/S or EAW in the office:</strong></div>\r\n<ul><li><div style=\"text-align:left\"> If someone is reached resolve right there. (May call to discuss etc). </div></li>\r\n<li><div style=\"text-align:left\"> If someone is not reached send an email.</div></li></ul>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\"><strong>Via email to office mailbox and CC to Supervisor:</strong></div>\r\n<strong></strong><ul><li><div style=\"text-align:left\">Note to Case the reason for early release. Note phone number to reach client.</div></li>\r\n<li><div style=\"text-align:left\">Reference Case name and Case number in the email. </div></li>\r\n<li><div style=\"text-align:left\">If supervisor is out of office forward according to their out of office. </div></li>\r\n<li><div style=\"text-align:left\">Person checking office mailbox should assign to an EAW or A/S when the supervisor is away and reply to all. </div></li></ul>\r\n<p style=\"text-align:left\">Advise client that if they are not contacted or they have no phone to call back in one hour.  </p>\r\n<p style=\"text-align:left\">The person who picks up the request should try and reach the applicant to discuss.</p>\r\n<p style=\"text-align:left\">If the client has no phone or there is no contact, the assessor makes notes of further discussion required, to release or not.</p>\r\n<p style=\"text-align:left\">Client calls back and is given answer or put back to assessor to conclude.​</p></div>",
+                "Id": 138,
+                "ContentType": "Item",
+                "Modified": "/Date(1372155641000)/",
+                "Created": "/Date(1370615836000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(138)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(138)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 3,
+                "Version": "3.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(138)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(142)",
+                    "etag": "W/\"6\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Persons with Persistent Multiple Barriers (PPMB)",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Employment%20Planning%20and%20Exemptions')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Employment Planning and Exemptions"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(142)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Persons with Persistent Multiple Barriers (PPMB)",
+                "Body": "<div class=\"ExternalClassE9EBAD5352094A459D875DD7A3ACF64C\"><div> </div>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">Persons with Persistent Multiple Barriers (PPMB) is a specialized caseload managed by office <a href=\"https://insight.gov.bc.ca/Pages/PeopleResults.aspx?k=583%20prince%20george&amp;start1=1\">583</a>. If you require further information please contact <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cNATWARRE\">Natalie Warren</a> or <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cWSHEWCHU\">Wendy Shewchuk</a>.</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:center\"><strong>PPMB - New</strong></p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">Open PPMB New SOP and complete up to step 8. Complete activity “Has contact received Medical Report HR2892 form” up to and including Change SR status: Pending Sub-status: Client</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">PPMB worker will book appointment and send client notification.</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">If date/time of interview is changed by client request, update SR due date, Memo field and 583 calendar with the new date/time.  Send email to Natalie Warren to advise of change.  If client is not wanting to rebook, please advise Natalie Warren and remove appointment from calendar.  Advise client if wishes to proceed again, they will need to initiate a new appointment date and that they can use the medical report for up to one year.</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">If the client provides an alternate number for contact, please make a Note, add/update the Resolution field and 583 Outlook calendar.</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:center\"><strong>PPMB - Review</strong> </p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">Reports are sent to and managed by Natalie Warren at office 583.</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">Medical reports do not need to be attached for the PPMB Review interview to be completed.</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">PPMB worker books appointment and sends client notification.  If date/time of interview is changed by client request, update SR due date, Memo field and 583 Outlook calendar with the new date/time.  Send email to Natalie Warren to advise of change. </p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">If client is not wanting to rebook, please advise Natalie Warren and remove appointment from calendar.  Advise client of time frames for renewal (SD More Info PPMB Review Date) and consequences should they not proceed (extended PPMB rates for 3 months, then will switch to regular). </p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">If the client provides an alternate number for contact, please make a Note add/update the Resolution field and 583 Outlook calendar.</p>\r\n<p class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\" style=\"text-align:left\">PPMB worker forward ready SR after interview:</p>\r\n<div class=\"ExternalClass799ECD5CE1D34B4594595B6FBBA02E5F\"><ul><li><div style=\"text-align:left\">Memo: To RRA</div></li>\r\n<li><div style=\"text-align:left\">Status: Ready</div></li>\r\n<li><div style=\"text-align:left\">Owner: HLCAMPBE</div></li>\r\n<li><div style=\"text-align:left\">Service Office: 400</div></li>\r\n<li><div style=\"text-align:left\">Due Date: 2 weeks from date of interview​</div></li></ul></div></div>",
+                "Id": 142,
+                "ContentType": "Item",
+                "Modified": "/Date(1373972936000)/",
+                "Created": "/Date(1372765150000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(142)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(142)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 6,
+                "Version": "6.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(142)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(116)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Processing Stubs/SD81's/Monthly Report",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(116)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Stubs (81's)",
+                "Body": "<div class=\"ExternalClassDFC9589024A647649274259A5CF30D94\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p><strong>No change stubs</strong> - No comments required but drill in and review the case.</p>\r\n<p><strong>Stub with changes</strong> - No activity or note required if income recorded in ICM Income tab. Comment pay stub dates in Comments section on the Income tab.</p>\r\n<p><strong>Stubs returned to client or other information not already inputted in ICM </strong>- Add Activity to detail same then Note to record what client submitted.  </p></div>",
+                "Id": 116,
+                "ContentType": "Item",
+                "Modified": "/Date(1371567187000)/",
+                "Created": "/Date(1345560739000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(116)/CreatedBy"
+                    }
+                },
+                "CreatedById": 146,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(116)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "5.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(116)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(133)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Profiling Standards",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('ICM')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "ICM"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(133)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Profiling",
+                "Body": "<div class=\"ExternalClass3AFB4D7521384C5B90C8C25E5F250587\"><p style=\"text-align:center\"><strong style=\"text-decoration:underline\">Procedures</strong></p>\r\n<p style=\"text-align:left\"><span style=\"text-decoration:underline\"></span><span>The attached document provides information on profiling standards (profile, scan, scanning, MFD).</span></p>\r\n<p style=\"text-align:left\"><span><a href=\"/rsd/region5/SiteAssets/Lists/Procedures/NewForm/region-5-profiling-standards.docx\"><img class=\"ms-asset-icon ms-rtePosition-4\" alt=\"region-5-profiling-standards.docx\" src=\"/rsd/region5/_layouts/images/icdocx.png\" />region-5-profiling-standards.docx</a></span></p>\r\n<p style=\"text-align:left\"> ​</p></div>",
+                "Id": 133,
+                "ContentType": "Item",
+                "Modified": "/Date(1363080344000)/",
+                "Created": "/Date(1363080344000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(133)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(133)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(133)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(137)",
+                    "etag": "W/\"2\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Provincial Language Services (PLS) - Interpreter Invoices",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Administration')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Administration"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(137)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Invoices",
+                "Body": "<div class=\"ExternalClassE6EF011A797C4512BAF55D4C44426113\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p style=\"text-align:left\"><span>Provincial Language Services (PLS) interpreter invoices should be sent to <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cAFFRYER\">Angie Fryer.</a> <span style=\"text-decoration:underline\">​</span></span></p></div>",
+                "Id": 137,
+                "ContentType": "Item",
+                "Modified": "/Date(1367842505000)/",
+                "Created": "/Date(1367842415000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(137)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(137)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 2,
+                "Version": "2.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(137)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(42)",
+                    "etag": "W/\"9\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Reconsiderations",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Decisions%2C%20Reconsiderations%20and%20Appeals')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Decisions, Reconsiderations and Appeals"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(42)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Reconsiderations",
+                "Body": "<div class=\"ExternalClassD5A2F1F4EAC14CC688D704F57BEF033D\"><div style=\"text-align:center\"><strong>Reconsiderations</strong></div>\r\n<div style=\"text-align:center\"> </div>\r\n<div style=\"text-align:left\"><div>The EAW who makes the decision to reduce, deny or discontinue income assistance will be responsible for preparing the Reconsideration (HD0100) and creating a new Service Request for Reconsideration and relating it to the original decision Service Request.  </div>\r\n<div> </div>\r\n<div>If after speaking with a supervisor the client wishes to proceed with a Reconsideration the supervisor will notify the EAW that an HD0100 is to be completed. </div>\r\n<div> </div>\r\n<div>If the EAW who made the decision is not available to complete the HD0100, the supervisor will assign completion of the HD0100 to a worker on the Service Request task team.</div>\r\n<div> </div>\r\n<div>When the HD0100 is complete including relevant documents, worker signs and scans a copy of the complete package to the Service Request to be printed for the client when they come into the office.  </div>\r\n<div> </div>\r\n<div>The person profiling the Reconsideration request will be responsible for updating the Reconsideration Service request to show the completed HD100 was received, for changing the Service Request Service Office to the Reconsideration Branch Office (Office 063) and for changing the Status of the Service Request to Ready. </div>\r\n<div> </div>\r\n<div style=\"text-align:center\"><strong>HAB Reconsiderations</strong></div>\r\n<div style=\"text-align:center\"><strong></strong> </div>\r\n<div style=\"text-align:left\">All HAB reconsiderations are to be completed by the Service Request Team, specifically those workers assigned to the reconsiderations task.</div>\r\n<div style=\"text-align:left\"> </div>\r\n<div style=\"text-align:left\">If timelines are tight then email Service Request Task Lead <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cLMMCCLEN\">Leeah McClenaghan</a> and whoever is showing assigned to SR Task #2 on the Task Schedule located within the Intake Calendar.</div>\r\n<div><div style=\"text-align:center\"><strong></strong> </div>\r\n </div></div></div>",
+                "Id": 42,
+                "ContentType": "Item",
+                "Modified": "/Date(1363174951000)/",
+                "Created": "/Date(1327653148000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(42)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(42)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 9,
+                "Version": "4.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(42)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(136)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Region 5 Outreach",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Programs')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Programs"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(136)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Outreach",
+                "Body": "<div class=\"ExternalClass2E4B638C985C4AD1B352951277393FB0\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p style=\"text-align:left\"><span><a href=\"/rsd/region5/SiteAssets/Lists/Procedures/EditForm/region5-outreach.docx\"><img class=\"ms-asset-icon ms-rtePosition-4\" alt=\"region5-outreach.docx\" src=\"/rsd/region5/_layouts/images/icdocx.png\" />region5-outreach.docx</a></span></p>\r\n<p style=\"text-align:left\"><span>Keyword search tags: liaison, navigator, BC New Hope Recovery Society, Baldy Hughes, Northern Health, hospital, mental health, detox, medical, band, first nations, aboriginal, Ministry of Children and Family Development, MCFD, social worker, advocate, homeless, HIP, HOP, ACT, COAST, AWAC, Ketso, prolific offender, POM, probation, PGRCC, Friendship Lodge, St Patricks House, St Pats, Iris House, long term care, LTC, corrections, Blue Pines, IOM, court, PSSG, Family and Youth Partnership, FYP, PWD, youth, transition. <span style=\"text-decoration:underline\">​</span></span></p></div>",
+                "Id": 136,
+                "ContentType": "Item",
+                "Modified": "/Date(1374056404000)/",
+                "Created": "/Date(1365496329000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(136)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(136)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "5.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(136)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(95)",
+                    "etag": "W/\"5\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Resources - OneNote",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Health%20Supplements')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Health Supplements"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(95)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Medical Transportation",
+                "Body": "<div class=\"ExternalClass4DC545865BAF4850A373849623AE8CF2\"><p style=\"text-align:center;text-decoration:underline\"><strong>Resources</strong></p>\r\n<p style=\"text-align:left\"><span><span><span style=\"text-decoration:underline\">​</span>The OneNote contains a list of medical transportation resources including but not limited to: airlines, bus, ferry, taxi, hotels, motels, visiting consultants and visiting speciaists.</span></span></p>\r\n<p style=\"text-align:left\"><span><span><div><span style=\"color:#0070c0\"><a href=\"file://handle/S34009/Administration/SME Med Trans Resources/Medical Transportation Resources\"><font face=\"Calibri\" color=\"#0000ff\">OneNote - Medical Transportation Resources Link</font></a></span></div></span></span> </p>\r\n  <p> </p>\r\n  <p> </p>\r\n  <p></p>\r\n<p></p>\r\n<p style=\"text-align:left\"> </p></div>",
+                "Id": 95,
+                "ContentType": "Item",
+                "Modified": "/Date(1332331507000)/",
+                "Created": "/Date(1328195004000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(95)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(95)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 5,
+                "Version": "1.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(95)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(103)",
+                    "etag": "W/\"2\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "START - Eligibility Reviews (ER) and File Transfer Ins (FTR)",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(103)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "START",
+                "Body": "<div class=\"ExternalClassF7B5C98546B1474A91619A92C459613B\"><div style=\"text-align:center\"><span style=\"text-decoration:underline\"> </span><span><span><span style=\"text-decoration:underline\"><strong>​Procedures</strong></span></span></span></div>\r\n<div style=\"text-align:center\"> </div>\r\n<div style=\"text-align:left\"><span><span>The START process is only for intake for new and returning applicants. </span></span></div>\r\n<span><span><div style=\"text-align:left\"><br />Third party checks (3rd party checks) for reapplications on open files (annual eligibility review/add spouse to existing file/reapply from MSO) are to be done by the EAW who is conducting the review. Do not refer RAP's to the START team. </div>\r\n<div style=\"text-align:left\"><br />When third party checks have not been done in SSAA at intake change the icon to not started/action required so you can import the application from SSAA and then follow the Job Aid for adding a notification for checks to still be completed by the START team. <br /></div></span></span><div style=\"text-align:center\"> </div></div>",
+                "Id": 103,
+                "ContentType": "Item",
+                "Modified": "/Date(1373885577000)/",
+                "Created": "/Date(1328354652000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(103)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(103)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 2,
+                "Version": "2.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(103)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(134)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "Updating AEE Remaining Amount",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(134)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Annualized Earnings Exemption (AEE)",
+                "Body": "<div class=\"ExternalClassF01BBEBCECF844A6A53BA306226D0075\"><p style=\"text-align:center;text-decoration:underline\"><strong>Procedures</strong></p>\r\n<p>Assign the Supervisor Notification Activity to <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=IDIR%5cTLSTEARN\">Tamara Stearns</a> or in Tamara’s absence to <a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDSTAUB\">Dawn Staub</a>.​</p></div>",
+                "Id": 134,
+                "ContentType": "Item",
+                "Modified": "/Date(1364228221000)/",
+                "Created": "/Date(1364226591000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(134)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(134)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 3,
+                "Version": "3.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(134)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(106)",
+                    "etag": "W/\"18\"",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresItem"
+                },
+                "ContentTypeID": "0x01001B6F6FD1BE8DCF46B16C1CE743731AFE",
+                "Title": "WebAOBlink (Employment Insurance/EI) - Users, Requests and Responses",
+                "Topics": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                                "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                            },
+                            "Value": "Verification and Eligibility"
+                        }
+                    ]
+                },
+                "SubCategory": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(106)/SubCategory"
+                    }
+                },
+                "SubCategoryValue": "Third (3rd) Party Checks",
+                "Body": "<div class=\"ExternalClassFC29437479B446C59AA60CC7294F3F19\"><p style=\"text-align:center\"><span style=\"text-decoration:underline\">​</span><strong><span style=\"text-decoration:underline\">Procedures</span></strong></p>\r\n<div style=\"text-align:center\"><strong></strong> </div>\r\n<p style=\"text-align:center\"><strong>WebAOBlink User List</strong></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cKRIBARN\">Kristina Barnes</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cSHBARNES\">Shannon Barnes</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cRCHALLEN\">Ryan Challan</a> </p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cEDJOHANN\">Eve Johannesson</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cSMMOSS\">Susan Moss</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cDAPARENT\">Debra Parent</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cTPARENT\">Tanya Parent</a></p>\r\n<p style=\"text-align:left\"><a href=\"https://insights.gov.bc.ca/Person.aspx?accountname=idir%5cJROOT\">Jacqueline Root</a></p>\r\n<p style=\"text-align:center\"><strong>WebAOBlink Requests</strong></p>\r\n<div style=\"text-align:center\"><strong></strong> </div>\r\n<p style=\"text-align:left\">Prior to submitting a request, staff should:</p>\r\n<ol><li><div style=\"text-align:left\">Ensure there is a signed 80A or 80 – MSDSI must have this signed Consent to process a WebAOBlink search</div></li>\r\n<li><div style=\"text-align:left\">Ensure there is an activity added to the Service Request indicating that a WebAOBLink search is being requested</div></li></ol>\r\n<p style=\"text-align:left\">To request an Employment Insurance claim search on a client, staff must email one of the WebAOBLink users with the following information only (no comments should be made in the email):</p>\r\n<ul><li><div style=\"text-align:left\">Subject Line:  WebAOBLink</div></li>\r\n<li><div style=\"text-align:left\">Body Text:  Client Name, SIN &amp; MIS PID #</div></li></ul>\r\n<div style=\"text-align:center\"><strong></strong> </div>\r\n<p style=\"text-align:center\"><strong>WebAOBlink Responses</strong></p>\r\n<div style=\"text-align:center\"><strong></strong> </div>\r\n<p style=\"text-align:left\">Upon completion of the WebAOBLink search, the SME will respond to staff via email, cc MSD WebAOBLink (<a href=\"mailto:MHRWEBAOBLINK@gov.bc.ca\">MHRWEBAOBLINK@gov.bc.ca</a>) and state the result as “See Service Request notes&quot; or &quot;No search results found&quot;.  </p>\r\n<p style=\"text-align:left\">Note – the SME will scan file and profile the WebAOB report to the appropriate Service Request and then shred the report as it is not filed or batch filed any longer.</p>\r\n<p style=\"text-align:left\">Once the WebAOBlink search has been completed and the HSD WebAOBLink mailbox has been cc’d, all local office WebAOBlink email correspondence containing client information should be deleted.</p>\r\n<p style=\"text-align:left\">Reminder - only tax deduction on EI benefits is exempt.</p></div>",
+                "Id": 106,
+                "ContentType": "Item",
+                "Modified": "/Date(1372863020000)/",
+                "Created": "/Date(1328361911000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(106)/CreatedBy"
+                    }
+                },
+                "CreatedById": 34,
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(106)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 34,
+                "Owshiddenversion": 18,
+                "Version": "11.0",
+                "Attachments": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/Procedures(106)/Attachments"
+                    }
+                },
+                "Path": "/rsd/region5/Lists/Procedures"
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+#search-notfound {
+  display: none;
+}
+.search, .filter {
+  line-height: 1.5em;
+  margin: 20px 0;
+  font-size: 16px;
+  padding: 5px 10px;
+}
+.search {
+  min-width: 35%;
+}
+
+.procedures-table .Modified {
+  min-width: 105px;
+}
+
+#procedure header{
+  margin: 2em 0;
+}
+
+#procedure header h2{
+  margin-bottom: 0;
+}
+
+.procedure-meta {
+  border-top: 1px solid #D2DBF4;
+  margin: 0;
+  font-weight: bold;
+}
+.procedure-meta time{
+  margin-top: -1px;
+  padding: .15em .5em;
+}
+
+/** BOOTSTRAP STYLES **/
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.btn:focus {
+    outline: thin dotted #333;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+.btn:hover,
+.btn:focus {
+    color: #333333;
+    text-decoration: none;
+}
+
+.btn:active,
+.btn.active {
+    outline: 0;
+    -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+}
+
+.btn-default {
+    color: #333333;
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active {
+    color: #333333;
+    background-color: #ebebeb;
+    border-color: #adadad;
+}
+
+.btn-default.disabled,
+.btn-default[disabled],
+fieldset[disabled] .btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled:active,
+.btn-default[disabled]:active,
+fieldset[disabled] .btn-default:active,
+.btn-default.disabled.active,
+.btn-default[disabled].active,
+fieldset[disabled] .btn-default.active {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+small {
+    font-size: 85%;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+cite {
+    font-style: normal;
+}
+
+.muted {
+    color: #999999;
+}
+
+a.muted:hover,
+a.muted:focus {
+    color: #808080;
+}
+

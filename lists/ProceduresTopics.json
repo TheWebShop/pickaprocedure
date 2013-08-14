@@ -1,0 +1,97 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Administration')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Administration"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Application')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Application"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Decisions%2C%20Reconsiderations%20and%20Appeals')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Decisions, Reconsiderations and Appeals"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Employment%20Planning%20and%20Exemptions')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Employment Planning and Exemptions"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Employment%20Plans')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Employment Plans"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Family%20Maintenance%20Program')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Family Maintenance Program"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('General%20Supplements')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "General Supplements"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Hardship')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Hardship"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Health%20Supplements')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Health Supplements"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('ICM')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "ICM"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Programs')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Programs"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Supplements')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Supplements"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/rsd/Region5/_vti_bin/listdata.svc/ProceduresTopics('Verification%20and%20Eligibility')",
+                    "type": "Microsoft.SharePoint.DataService.ProceduresTopicsValue"
+                },
+                "Value": "Verification and Eligibility"
+            }
+        ]
+    }
+}
