@@ -19,7 +19,7 @@
       return html.replace(/(<([^>]+)>)/ig, '');
     };
     return Procedure = SP.Item.extend({
-      site: '/rsd/Region5',
+      site: '/rsd/Region2',
       list: 'Procedures',
       initialize: function() {
         this.attributes.modifiedOn = moment(this.attributes.Modified).format('MMM Do, YYYY');
