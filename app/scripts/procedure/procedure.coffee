@@ -22,7 +22,7 @@ define ['backbone.sharepoint', 'moment'], (SP, moment) ->
     html.replace(/(<([^>]+)>)/ig, '');
 
   Procedure = SP.Item.extend
-    site: '/rsd/Region5',
+    site: '/rsd/Region3',
     list: 'Procedures'
 
     initialize: ->
