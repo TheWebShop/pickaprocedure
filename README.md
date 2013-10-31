@@ -3,7 +3,7 @@ Pick a Procedure
 
 > Using Listjs to display the contents of a SP2010 list
 
-![Screenshot](screenshot.jpeg)
+![Screenshot](screenshot.jpg)
 
 This project was created using the techniques described in [this gist](https://gist.github.com/Sinetheta/6003037).
 
