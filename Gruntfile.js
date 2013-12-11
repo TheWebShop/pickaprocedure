@@ -21,7 +21,7 @@ module.exports = function (grunt) {
     var yeomanConfig = {
         app: 'app',
         dist: 'dist',
-        sp: '/Volumes/theloop.gov.bc.ca/rsd/psb/SitePages/procedures/derp'
+        sp: '/Volumes/theloop.gov.bc.ca/rsd/psb/SitePages/procedures-test'
     };
 
     grunt.initConfig({

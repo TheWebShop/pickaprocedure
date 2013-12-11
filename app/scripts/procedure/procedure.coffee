@@ -23,7 +23,7 @@ define ['backbone.sharepoint', 'moment'], (SP, moment) ->
 
   Procedure = SP.Item.extend
     site: '/rsd/psb',
-    list: 'Procedures'
+    list: 'ProceduresTest'
 
     initialize: ->
       @attributes.modifiedOn = moment(@attributes.Modified).format('MMM Do, YYYY');
